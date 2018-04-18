@@ -1,0 +1,40 @@
+#danmu{
+	margin: 30px;
+	text-align: center;
+}
+#main{
+	height: 200px;
+	width: 100%;
+	border: 1px solid gray;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.show div{
+	position: absolute;
+}
+#input{
+	margin-top: 15px;
+	width: 400px;
+	height: 35px;
+	border: 1px solid #66CCFF;
+	border-radius: 3px;
+}
+#menubar{
+	margin: 5px;
+	text-align: center;
+}
+.btn{
+	width: 150px;
+	height: 30px;
+	margin: 5px;
+	background-color: white;
+	border-radius: 3px;
+}
+#bt1{
+	border: 1px solid #FFCC00;
+}
+#bt2{
+	border: 1px solid #778899;
+}
+
